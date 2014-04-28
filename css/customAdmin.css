@@ -1,0 +1,41 @@
+form .field-multiple-table th.field-label {
+	padding: 10px 0 10px 15px !important;
+}
+
+.ui-dialog .ui-dialog-titlebar-close span {
+	margin: -8px !important;
+}
+
+.vertical-tabs-pane .fieldset-wrapper > div:first-child {
+	padding: 0;
+}
+
+.container-inline-date .date-padding {
+	padding: 0 10px;
+}
+
+.vertical-tabs fieldset.default-fallback, div.field-group-tabs-wrapper div.field-type-image fieldset, div.field-group-tabs-wrapper div.field-type-file fieldset, div.field-group-tabs-wrapper div.field-type-datetime fieldset {
+	padding: 12px;
+}
+
+input.form-submit, a.button, div.exposed-filters input#edit-submit {
+	margin: 1em 1em 1em 0;
+}
+
+.cke_contents {
+	padding: 0 10px !important;
+	box-sizing:border-box !important;
+	-moz-box-sizing:border-box !important; /* Firefox */
+}
+
+#media-browser-library-list li{
+	width: 112px;
+	height: 112px;
+}
+
+.media-item {
+	width: 100%;
+	height: 100%;
+	box-sizing:border-box !important;
+	-moz-box-sizing:border-box !important; /* Firefox */
+}

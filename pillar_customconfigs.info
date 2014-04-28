@@ -1,0 +1,4 @@
+name = Pillar Custom Configs
+description = Custom Anpassungen
+package = Pillar
+core = 7.x

@@ -1,0 +1,7 @@
+<?php
+
+function pillar_customconfigs_form_alter(&$form, &$form_state, $form_id){
+  //dpm($form);
+  //drupal_set_message($form_id);
+  drupal_add_css(drupal_get_path('module', 'pillar_customconfigs') . '/css/customAdmin.css', array('group' => CSS_THEME, 'weight' => 100));
+}
